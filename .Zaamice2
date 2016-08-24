@@ -51,7 +51,7 @@
 
 
 <item>
-<title>                     [COLOR skyblue][B]    [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]                                                            IP-LIST [/B][/COLOR]   </title>
+<title>                     [COLOR skyblue][B]    [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]                                      IP-LIST [/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                   [COLOR lightslategray]     [COLOR slategray][B]20[/B][/COLOR]                            ZaamiceTV [/COLOR]      </title>
+<title>                   [COLOR lightslategray]     [COLOR slategray][B]  [/B][/COLOR]                            ZaamiceTV [/COLOR]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
