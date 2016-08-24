@@ -51,7 +51,7 @@
 
 
 <item>
-<title>                     [COLOR skyblue][B]    [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]                                     IP-LIST [/B][/COLOR]   </title>
+<title>                     [COLOR skyblue][B]    [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]                                     IP-TV [/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
