@@ -51,7 +51,7 @@
 
 
 <item>
-<title>                     [COLOR skyblue][B]    [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]                           IP-LIST[/B][/COLOR]   </title>
+<title>                     [COLOR skyblue][B]    [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]                                                            IP-LIST [/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                   [COLOR lightslategray]     [COLOR slategray][B]20[/B][/COLOR]          ZaamiceTV[/COLOR]      </title>
+<title>                   [COLOR lightslategray]     [COLOR slategray][B]20[/B][/COLOR]                            ZaamiceTV [/COLOR]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -175,7 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]IP-LIST[/B]   [/COLOR][COLOR lightslategray][B]      [/B][/COLOR] </title>
+<title>[COLOR lime]•[/COLOR][COLOR lightgreen][B]IP-LIST[/B]   [/COLOR][COLOR lightslategray][B]     [/B][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://img5.fotos-hochladen.net/uploads/onlineicon2la4skjy17.png</thumbnail><fanart>https://wallpaperscraft.com/image/shapes_shape_line_points_92772_2560x1440.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
 </item>
